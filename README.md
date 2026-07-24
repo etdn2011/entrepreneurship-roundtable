@@ -206,6 +206,7 @@
 ```bash
 git clone https://github.com/etdn2011/entrepreneurship-roundtable.git
 # 将整个仓库放入 WorkBuddy skills 目录，或只复制需要的子技能文件夹
+# 将整个仓库放入 WorkBuddy skills 目录，或只复制需要的子技能文件夹
 ```
 
 ---
